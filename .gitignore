@@ -1,0 +1,9 @@
+# Confidential source material
+source-private/
+*.original.*
+*.internal.*
+
+# Local exports
+.DS_Store
+*.drawio.bkp
+
